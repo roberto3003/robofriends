@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\public",
-    "\\src"
+    "\\src",
+    "\\src\\containers"
   ],
-  "SelectedNode": "\\package.json",
+  "SelectedNode": "\\public\\favicon.ico",
   "PreviewInSolutionExplorer": false
 }
