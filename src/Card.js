@@ -1,5 +1,5 @@
 // JavaScript source code
-import React, { Fragment } from 'react';
+import React from 'react';
 
 const card = ({ name, email, id }) => {
     return (
